@@ -1,0 +1,8 @@
+/Makefile
+/.ignore
+/.vscode
+/*.code-workspace
+/Intermediate
+/Saved
+/Binaries
+/Build
